@@ -4,7 +4,7 @@ body{
     background-color:#FFFFFF;
 }
 
-.WEB{
+.web{
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
@@ -38,7 +38,7 @@ h1{
     font-style: normal;
 }
 
-.Stu{
+.stu{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -47,15 +47,15 @@ h1{
     color:#2e2f42;
 }
 
-.Stu:hover{
+.stu:hover{
     color: #404bbf;
 }
 
-.Stu:focus{
+.stu:focus{
     color: #404bbf;
 }
 
-.Por{
+.por{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -64,16 +64,16 @@ h1{
     color:#2e2f42;
 }
 
-.Por:hover{
+.por:hover{
     color: #404bbf;
 }
 
-.Por:focus{
+.por:focus{
     color: #404bbf;
 }
 
 
-.Con{
+.con{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -82,11 +82,11 @@ h1{
     color:#2e2f42;
 }
 
-.Con:hover{
+.con:hover{
     color: #404bbf;
 }
 
-.Con:focus{
+.con:focus{
     color: #404bbf;
 }
 
@@ -112,7 +112,7 @@ h1{
     color: #404bbf;
 }
 
-.Num{
+.num{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -122,11 +122,11 @@ h1{
 }
 
 
-.Num:hover{
+.num:hover{
     color: #404bbf;
 }
 
-.Num:focus{
+.num:focus{
     color: #404bbf;
 }
 
