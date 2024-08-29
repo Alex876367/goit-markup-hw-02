@@ -146,12 +146,14 @@ p{
 }
 
 .people{
-    font-size: 36px;
-    line-height: 1.11;
+    font-size: 20px;
+    line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
+    background-color: #FFFFFF
+    
 }
 
 .post{
@@ -160,4 +162,13 @@ p{
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.our-team{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
 }
