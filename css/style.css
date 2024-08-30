@@ -201,7 +201,14 @@ p{
 
 .footer{
     background-color:#2e2f42;
-    
+}
 
+.span{
+    color: #f4f4fd;
+}
 
+.paragraf-parag{
+    line-height: 1.5;
+    color:#F4F4FD;
+    letter-spacing: 0.02em;
 }
